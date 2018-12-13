@@ -1,0 +1,15 @@
+{
+    "forge_marker": 1,
+    "variants":
+    {
+            "facing=north,part=bottom": { "model": "cctransfer:tube_station_bottom" },
+            "facing=east,part=bottom":  { "model": "cctransfer:tube_station_bottom", "y": 90 },
+            "facing=south,part=bottom": { "model": "cctransfer:tube_station_bottom", "y": 180 },
+            "facing=west,part=bottom":  { "model": "cctransfer:tube_station_bottom", "y": 270},
+            "facing=north,part=top": { "model": "cctransfer:tube_station_top" },
+            "facing=east,part=top":  { "model": "cctransfer:tube_station_top", "y": 90 },
+            "facing=south,part=top": { "model": "cctransfer:tube_station_top", "y": 180 },
+            "facing=west,part=top":  { "model": "cctransfer:tube_station_top", "y": 270 }
+    }
+}
+    

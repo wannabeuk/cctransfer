@@ -11,5 +11,5 @@ import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 @ObjectHolder(Reference.MOD_ID)
 public class ModItems 
 {
-	public static final Item BASIC_ITEM = null;
+	
 }
