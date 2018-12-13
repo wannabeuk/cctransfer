@@ -1,0 +1,6 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "cctransfer:blocks/tube/tube_basic"
+    }
+}

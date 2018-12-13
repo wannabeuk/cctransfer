@@ -1,0 +1,13 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "layer": "CUTOUT_MIPPED",
+    "type": "CTM",
+    "textures": [
+      "cctransfer:blocks/tube/ctm/tube_basic_ctm"
+    ],
+    "extra": {
+      "connect_inside": true
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "cctransfer:block/tube_side",
+  "textures": {
+    "texture": "cctransfer:blocks/tube/tube_basic"
+  }
+}
